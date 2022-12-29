@@ -1,0 +1,32 @@
+/*Headers*/
+h1{
+	text-align: center;
+}
+
+h2{
+	text-align: center;
+}
+
+h3{
+	text-align: center;
+}
+
+/*Text*/
+body{
+    background-color: black;
+    color: white;
+	margin: 150px;
+}
+
+a:link{
+	color: #0085a3;
+}
+
+a:visited{
+	color: #005d72;
+}
+
+/*Colours
+Link-#0085a3;
+Link(visited)-#005d72;
+*/
