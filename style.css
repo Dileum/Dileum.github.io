@@ -30,6 +30,7 @@ a:visited{
 .knowledgeButton{
 	position: absolute;
 	text-align: center;
+	left:30px;
 }
 
 /*Colours
