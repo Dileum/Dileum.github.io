@@ -27,7 +27,7 @@ a:visited{
 }
 
 /*JS*/
-#knowledge-button{
+.knowledgeButton{
 	position: absolute;
 	text-align: center;
 }
