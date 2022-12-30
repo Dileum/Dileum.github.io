@@ -26,6 +26,12 @@ a:visited{
 	color: #005d72;
 }
 
+/*JS*/
+#knowledge-button{
+	position: absolute;
+	text-align: center;
+}
+
 /*Colours
 Link-#0085a3;
 Link(visited)-#005d72;
