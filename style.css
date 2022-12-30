@@ -27,10 +27,10 @@ a:visited{
 }
 
 /*JS*/
-.knowledgeButton{
-	position: absolute;
+div.knowledgeButton{
+	position: relative;
 	text-align: center;
-	left:30px;
+	top:50px;
 }
 
 /*Colours
